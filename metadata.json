@@ -1,0 +1,6 @@
+{
+  "name": "AI Dynamic Routing Selector",
+  "description": "AI-Based Dynamic Routing Algorithm Selector for Computer Networks with interactive topology, telemetry simulation, and comparative benchmarks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
